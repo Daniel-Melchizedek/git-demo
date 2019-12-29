@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Content
 
-Hello, I am Daniel.
+1. index.html
 
-This is my friend Kathy.
